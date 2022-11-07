@@ -1,6 +1,6 @@
 # geoweb
 Search for secondary schools around the region of Punggol
 - OSM School layer
-- Osm buildings layer (Geofabrik)
-- Osm image layer
+- OSM buildings layer (Geofabrik)
+- OSM image layer
 - Punggol planning subzone (MP19)
